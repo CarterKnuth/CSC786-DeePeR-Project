@@ -3,6 +3,8 @@
 This repository demonstrates an ethical, reproducible data-collection workflow used in the CSC786 course.
 
 ## Overview
+My project is aimed at detecting dark patterns on website UI. The goal is to make an implemenation of this into a Google Chrome Extension Application.
+
 This project collects sample open data from dataset.csv found on https://www.kaggle.com/datasets/krishuppal/dark-patterns?resource=download,
 logs all collection metadata, and stores them in a version-controlled repository.
 
